@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+@fragment
+fn ${1:main}(${2:@builtin(position) pos: vec4f}) -> @location(0) vec4f {
+  ${4}
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>fs</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.wgsl</scope>
+</snippet>
