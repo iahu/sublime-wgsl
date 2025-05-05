@@ -1,0 +1,12 @@
+{
+  "name": "WGSL Enhance",
+  "details": "Enhanced WGSL support for Sublime Text with syntax highlighting and snippets",
+  "labels": ["syntax", "wgsl", "webgpu", "snippets"],
+  "releases": [
+    {
+      "version": "1.0.0",
+      "sublime_text": ">=3000",
+      "platforms": ["*"]
+    }
+  ]
+}

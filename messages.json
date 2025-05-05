@@ -1,0 +1,6 @@
+{
+  "install": "WGSL Enhance has been installed. Enjoy!",
+  "uninstall": "WGSL Enhance has been uninstalled.",
+  "upgrade": "WGSL Enhance has been upgraded.",
+  "downgrade": "WGSL Enhance has been downgraded."
+}
